@@ -71,13 +71,13 @@ export function makeServer({ environment = "development" } = {}) {
           addressList: [
             {
               _id: uuid(),
-              name: "Chirag Taluja",
-              street: "4254 Central Pkwy",
-              city: "Port Credit",
-              state: "Ontario",
-              country: "Canada",
-              pincode: "L5G 1K2",
-              phone: "905-278-0724",
+              name: "Divyesh Parmar",
+              street: "Limda",
+              city: "Vadodara",
+              state: "Gujarat",
+              country: "India",
+              pincode: "12345",
+              phone: "9724331253",
             },
           ],
         })

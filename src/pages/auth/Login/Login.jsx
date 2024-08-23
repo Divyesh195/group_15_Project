@@ -81,9 +81,8 @@ export const Login = () => {
           {error && <span className="error">{error}</span>}
           <div className="login-btn-container">
             <input value="Login" type="submit" />
-            <button
-              onClick={(e) => {
-                loginHandler(e, "chiragtaluja@apple.com", "chiragtaluja");
+            <button  onClick={(e) => {
+                loginHandler(e, "divyeshparmar@gmail.com", "zxcvbnml");
               }}
             >
               Login with Test Credentials
