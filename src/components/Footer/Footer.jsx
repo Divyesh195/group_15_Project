@@ -10,7 +10,7 @@ export const Footer = () => {
 
   return (
     <div className="footer">
-      <small> &copy; {copyrightYear} Group 15</small>
+      <small> &copy; {copyrightYear} | Group 15</small>
       <div className="social-links">
         <Link to="https://twitter.com" target="_blank">
           <BsTwitter />
