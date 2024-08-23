@@ -52,7 +52,7 @@ export const DeliveryAddress = () => {
     key: KEY_ID,
     currency: "INR",
     amount: Number(totalAmount) * 100,
-    name: "DadSneakers",
+    name: "SneakElite",
     description: "Order for products",
     prefill: {
       name: auth.firstName,
